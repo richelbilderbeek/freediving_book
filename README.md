@@ -18,7 +18,7 @@ Free and open book about freediving.
  * Competitive freediving outside
     * dangers
     * preparation
- * Equipment
+ * [Equipment](equipment.md)
  * Swimming
    * Duck dive
  * Breathing
